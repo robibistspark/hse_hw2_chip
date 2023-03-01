@@ -29,7 +29,7 @@ https://colab.research.google.com/drive/15oBoGD66BVxGoKGxWkx7EJKBQUVnilNV?usp=sh
 
 ## Сравнение с данными из ENCODE
 
-### ENCFF927RGC & ENCODE
+### ENCFF058HFU & ENCODE
 ![image](https://user-images.githubusercontent.com/71763293/222233386-e986256f-d0f1-4e9c-b023-75c6f562f882.png)
-### ENCODE & ENCFF927RGC
+### ENCODE & ENCFF058HFU
 ![image](https://user-images.githubusercontent.com/71763293/222233435-1fe3ef7f-f1f3-499d-be51-bb36d5216b77.png)
