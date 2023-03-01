@@ -13,10 +13,10 @@ https://colab.research.google.com/drive/15oBoGD66BVxGoKGxWkx7EJKBQUVnilNV?usp=sh
 ![image](https://user-images.githubusercontent.com/71763293/222211089-a8afe95e-12cf-42ef-b600-9dc7194f9700.png)
 ![image](https://user-images.githubusercontent.com/71763293/222211153-b390344e-064e-42d7-b658-d37085e9353e.png)
 
-### ENCFF100LFZ
+### ENCFF275PNU
 
-![image](https://user-images.githubusercontent.com/71763293/222211318-44b8a458-b299-464d-9a73-87ebf8b05636.png)
-![image](https://user-images.githubusercontent.com/71763293/222211371-f8dfffbb-07f5-486c-92ad-10933b16ca5e.png)
+![image](https://user-images.githubusercontent.com/71763293/222242701-17f94710-e9b0-4f1d-9a9f-113b5859ca8d.png)
+![image](https://user-images.githubusercontent.com/71763293/222242739-d7b8048e-534f-461b-a159-03beb2bfb79f.png)
 
 ### ENCFF308KEO (контроль)
 
@@ -24,8 +24,7 @@ https://colab.research.google.com/drive/15oBoGD66BVxGoKGxWkx7EJKBQUVnilNV?usp=sh
 ![image](https://user-images.githubusercontent.com/71763293/222211466-496342e2-1d73-4390-92f1-0583cbcbfe5e.png)
 
 ## Анализ выравнивания (выдача bowtie2)
-
-![image](https://user-images.githubusercontent.com/71763293/222210836-6d708eca-06c4-44c6-a3e6-a8d5e1c03d54.png)
+![image](https://user-images.githubusercontent.com/71763293/222244178-851e3b24-2584-482b-8a11-626d359604df.png)
 
 ## Сравнение с данными из ENCODE
 
@@ -33,3 +32,8 @@ https://colab.research.google.com/drive/15oBoGD66BVxGoKGxWkx7EJKBQUVnilNV?usp=sh
 ![image](https://user-images.githubusercontent.com/71763293/222233386-e986256f-d0f1-4e9c-b023-75c6f562f882.png)
 ### ENCODE & ENCFF058HFU
 ![image](https://user-images.githubusercontent.com/71763293/222233435-1fe3ef7f-f1f3-499d-be51-bb36d5216b77.png)
+
+### ENCFF275PNU & ENCODE
+![image](https://user-images.githubusercontent.com/71763293/222242460-7a3e5d53-08c8-48e1-99c1-92f0520f6840.png)
+### ENCODE & & ENCFF275PNU
+![image](https://user-images.githubusercontent.com/71763293/222242515-f4c39789-2661-4d90-b0cc-9f21517a43ee.png)
