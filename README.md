@@ -15,11 +15,11 @@ https://colab.research.google.com/drive/15oBoGD66BVxGoKGxWkx7EJKBQUVnilNV?usp=sh
 ![image](https://user-images.githubusercontent.com/71763293/222211318-44b8a458-b299-464d-9a73-87ebf8b05636.png)
 ![image](https://user-images.githubusercontent.com/71763293/222211371-f8dfffbb-07f5-486c-92ad-10933b16ca5e.png)
 
-### ENCFF308KEO
+### ENCFF308KEO (контроль)
 
 ![image](https://user-images.githubusercontent.com/71763293/222211446-e21ffefb-39ff-4104-b31e-999ce8f228fa.png)
 ![image](https://user-images.githubusercontent.com/71763293/222211466-496342e2-1d73-4390-92f1-0583cbcbfe5e.png)
 
-## Анализ выдачи bowtie2
+## Анализ выравнивания (выдача bowtie2)
 
 ![image](https://user-images.githubusercontent.com/71763293/222210836-6d708eca-06c4-44c6-a3e6-a8d5e1c03d54.png)
