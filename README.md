@@ -26,3 +26,11 @@ https://colab.research.google.com/drive/15oBoGD66BVxGoKGxWkx7EJKBQUVnilNV?usp=sh
 ## Анализ выравнивания (выдача bowtie2)
 
 ![image](https://user-images.githubusercontent.com/71763293/222210836-6d708eca-06c4-44c6-a3e6-a8d5e1c03d54.png)
+
+## Сравнение с данными из ENCODE
+
+### ENCFF927RGC & ENCODE
+![image](https://user-images.githubusercontent.com/71763293/222232363-25c0c238-c50b-4a7b-b4d3-4c630209bd79.png)
+### ENCODE & ENCFF927RGC
+![image](https://user-images.githubusercontent.com/71763293/222233051-01f0c156-6e87-4073-a960-a364e081ba29.png)
+
