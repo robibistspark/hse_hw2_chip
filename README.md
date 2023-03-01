@@ -27,6 +27,7 @@ https://colab.research.google.com/drive/15oBoGD66BVxGoKGxWkx7EJKBQUVnilNV?usp=sh
 ![image](https://user-images.githubusercontent.com/71763293/222244178-851e3b24-2584-482b-8a11-626d359604df.png)
 
 ## Сравнение с данными из ENCODE
+(По две картинки нужно, так как для процедуры сравнения важен порядок того, что с чем сравниваем.)
 
 ### ENCFF058HFU & ENCODE
 ![image](https://user-images.githubusercontent.com/71763293/222233386-e986256f-d0f1-4e9c-b023-75c6f562f882.png)
@@ -37,3 +38,5 @@ https://colab.research.google.com/drive/15oBoGD66BVxGoKGxWkx7EJKBQUVnilNV?usp=sh
 ![image](https://user-images.githubusercontent.com/71763293/222242460-7a3e5d53-08c8-48e1-99c1-92f0520f6840.png)
 ### ENCODE & & ENCFF275PNU
 ![image](https://user-images.githubusercontent.com/71763293/222242515-f4c39789-2661-4d90-b0cc-9f21517a43ee.png)
+
+Видно, что пересечений в целом немного: видимо, из-за того, что мы делали выравнивание только с одной хромосомой.
