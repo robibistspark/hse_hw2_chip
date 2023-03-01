@@ -7,7 +7,7 @@ https://www.encodeproject.org/experiments/ENCSR526UWU/
 https://colab.research.google.com/drive/15oBoGD66BVxGoKGxWkx7EJKBQUVnilNV?usp=sharing
 
 ## FastQC
-Можно было бы подрезать начала, но, кажется, качество там всё же неплохое
+Можно было бы подрезать начала, но, кажется, в целом качество всё же неплохое
 
 ### ENCFF058HFU
 
