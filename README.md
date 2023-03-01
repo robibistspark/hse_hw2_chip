@@ -1,5 +1,8 @@
 # hse_hw2_chip
 
+## Ссылка на эксперисмент
+https://www.encodeproject.org/experiments/ENCSR526UWU/
+
 ## Ссылка на Colab
 https://colab.research.google.com/drive/15oBoGD66BVxGoKGxWkx7EJKBQUVnilNV?usp=sharing
 
